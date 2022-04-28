@@ -20,7 +20,8 @@ public class P9_Array {
 		obj.findSecondLargestAndSecondSmallestElement(array);
 		obj.leftRotationInAnArray(array);
 		obj.removeElementInArray(array); // (Optional)
-
+       
+         
 	}
 
 }

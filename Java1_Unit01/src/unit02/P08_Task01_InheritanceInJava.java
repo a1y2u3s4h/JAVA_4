@@ -39,9 +39,11 @@ public class P08_Task01_InheritanceInJava {
 
 class One {
 	int a;
-
-	One(int x) {
-		System.out.println("one constructor !");
+   int b;
+	One(int x ) {
+		System.out.println("one constructor 321!");
+		System.out.println(x);
+	
 	}
 
 	public void methodOne() {

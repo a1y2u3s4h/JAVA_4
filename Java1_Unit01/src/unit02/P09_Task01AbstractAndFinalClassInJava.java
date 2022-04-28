@@ -8,7 +8,7 @@ package unit02;
   -Can't make the object of abstract class directly ,but throuogh the derived class [cannot be instant]
   
   FInal Class
-  -The main purpose of using a class being declared as final is to prevent the class from being
+  -The main purpose of using a class being declared as final is to prevent the class from being inherited
   -if a class is marked as final then no class is inherit any feature from the final class.
   -you cann't extend the final class .If you try ,it gives you compile time error.
  */
