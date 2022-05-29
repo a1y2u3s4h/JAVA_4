@@ -13,6 +13,8 @@ package Java1_Unit01;
  * nextShort()		reads a short value from user 
  */
 
+import java.util.Scanner;
+
 public class ScannerClassesInJava {
 	public static void main(String[] args) {
 		
